@@ -1,2 +1,2 @@
 # Mario Pygame
-This is a dummy Mario game made in Pygame
+This is a simple Mario 'game' made in Pygame
