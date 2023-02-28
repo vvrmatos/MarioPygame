@@ -83,4 +83,7 @@ while True:
     pygame.display.update()
 
     # Limit the frame rate
-    clock.tick(40)
+    clock.tick(50)
+
+    # Process sleep state handler
+    pygame.time.wait(30)
